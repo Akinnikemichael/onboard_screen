@@ -9,7 +9,7 @@ class WelcomePage2 extends StatelessWidget {
     return const Template(
       image: AssetImage('images/Homescreen2.png'),
       title: 'Customize',
-      text1: '',
+      text1: 'Feel free to adjust your workout',
       text2: '',
       text3: '',
       iconImage: AssetImage(''),
