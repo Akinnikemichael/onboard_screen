@@ -10,7 +10,7 @@ class WelcomePage2 extends StatelessWidget {
       image: AssetImage('images/Homescreen2.png'),
       title: 'Customize',
       text1: 'Feel free to adjust your workout',
-      text2: '',
+      text2: '& diest settings according to',
       text3: '',
       iconImage: AssetImage(''),
       navigateTo: '',
