@@ -7,8 +7,8 @@ class WelcomePage2 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const Template(
-      image: AssetImage('images/Homescreen1.png'),
-      title: '',
+      image: AssetImage('images/Homescreen2.png'),
+      title: 'Customize',
       text1: '',
       text2: '',
       text3: '',
